@@ -1,8 +1,3 @@
-# Netflix-Content-Analysis-EDA-with-Python
-Sure! Here's the **ready-to-copy version** for your GitHub README:
-
----
-
 # 📊 Netflix Content Analysis
 
 *Exploratory Data Analysis (EDA) using Python*
@@ -42,7 +37,3 @@ This project explores and analyzes a dataset of Netflix titles to uncover meanin
 * Visual summaries of content types, genres, certifications, and country-wise trends.
 * Clear understanding of audience-focused content curation patterns on Netflix.
 * Insightful foundation for recommendation engines, content strategy, or user preference studies.
-
----
-
-You're all set—just paste this into your `README.md` on GitHub! Let me know if you want a preview or markdown file.
